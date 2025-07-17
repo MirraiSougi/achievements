@@ -13,7 +13,7 @@ This repository attempts to list them all.
 **2024-02-06:** Achievements will no longer be available in [GitHub's Community Discussions](https://github.com/orgs/community/discussions/) to counter spam, see [the announcement](https://github.com/orgs/community/discussions/106536).
 
 Don't like the Achievements? [Here](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/showing-your-private-contributions-and-achievements-on-your-profile#changing-the-visibility-of-achievements) is how to disable them. [Direct link to the setting for your convenience](https://github.com/settings/profile#profile-settings-heading).
-
+      
 ## Achievements
 
 | Title | Badge | Earnable? | Earned by |
